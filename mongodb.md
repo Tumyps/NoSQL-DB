@@ -17,33 +17,40 @@
 **Update**
 
 Время: 194
+
 ![](/images/update.png)
 
 **Delete**
 
 Время: 327
+
 ![](/images/delete.png)
 
 # Индексирование 
 ![](/images/index.png)
+
 **Create**
 
 Время: 0
+
 ![](/images/ind_create.png)
 
 **Read**
 
 Время: 2
+
 ![](/images/ind_read.png)
 
 **Update**
 
 Время: 182
+
 ![](/images/ind_update.png)
 
 **Delete**
 
 Время: 183
+
 ![](/images/ind_delete.png)
 
 # Заключение
