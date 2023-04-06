@@ -1,6 +1,5 @@
 # Заполнение
-Заполним данные [датасетом](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html)
-![](/images/dataset.png)
+Заполним данные [датасетом](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html). Он содержит порядка 250'000 записей
 
 # CRUD
 Время везде будет указано в секундах.
