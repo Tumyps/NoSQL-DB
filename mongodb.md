@@ -44,4 +44,4 @@
 **Delete**
 
 Время: 183
-![](/images/ind_delete)
+![](/images/ind_delete.png)
